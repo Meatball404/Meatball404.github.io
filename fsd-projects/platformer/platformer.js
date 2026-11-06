@@ -38,6 +38,7 @@ $(function () {
      createPlatform(800, 320, 200, 50, "red")
     createPlatform(650, 1100, 200, 50, "red")
     createPlatform(400, 250, 200, 50, "red");
+     createPlatform(300, 250, 200, 50, "black");
     
    
 
