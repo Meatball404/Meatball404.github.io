@@ -54,7 +54,7 @@ circles.push(circle);
         */
         function update() {
             // TODO 4 : Update the position of each circle using physikz.updatePosition()
-            for(var i = 0 < circles.length; i++ ){
+            for(var i = 0 < circles.length; i++){
                 physikz.updatePosition(circles[i])
                 game.checkCirclePosition(circles[i])
             }
